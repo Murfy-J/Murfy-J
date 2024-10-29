@@ -3,7 +3,7 @@
 
 ### About Me
 
-- 🔭 I’m currently transitioning from tech support to backend developer.
+- 🔭 I’m currently looking to transition from tech support to backend developer.
 - 🌱 I’m actively learning PHP and Laravel.
 - 👯 I’m looking to collaborate on projects related to PHP and backend development.
 - 🤔 I’m eager to expand my knowledge and skills to secure a developer role.
